@@ -1,0 +1,88 @@
+# Node modules
+node_modules
+
+# Yarn
+.pnp
+.pnp.js
+
+# Next.js build output
+.next
+out
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js generated files
+.cache
+.next/cache
+
+# TypeScript cache
+*.tsbuildinfo
+
+# ESLint cache
+.eslintcache
+
+# Stylelint cache
+.stylelintcache
+
+# Test coverage
+coverage
+
+# Optional npm cache directory
+.npm
+
+# MacOS system files
+.DS_Store
+
+# Editor directories and files
+.vscode
+.idea
+
+# VSCode specific files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# JetBrains IDEs
+*.iml
+.idea/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/contentModel.xml
+.idea/**/description.html
+.idea/**/docker-compose-<project>.yaml
+.idea/**/security.xml
+.idea/**/deployment.xml
+.idea/**/encoding.xml
+.idea/**/macros.xml
+.idea/**/modules.xml
+.idea/**/runConfigurations
+.idea/**/filetypes.xml
+.idea/**/gradle.xml
+.idea/**/modules.xml
+.idea/**/vcs.xml
+.idea/**/watcherTasks.xml
+.idea/**/gitToolBox.xml
+
+# Next.js static export
+out
+
+# Production environment variables
+.env.production
+
+# Build output
+dist
+build
