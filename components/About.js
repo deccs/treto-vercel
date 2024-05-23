@@ -24,7 +24,7 @@ const About = () => {
                 <p className="mil-upper mil-mb-30">
                   <span className="mil-accent">Hello</span>, my name is
                 </p>
-                <h2 className="mil-up mil-mb-60">Sophie Miller</h2>
+                <h2 className="mil-up mil-mb-60">Gilles Buffat</h2>
                 <p className="mil-mb-30">
                   From France, Paris. I have rich experience in web design, also
                   I am good at React, Vue.js. I love to talk with you about our
